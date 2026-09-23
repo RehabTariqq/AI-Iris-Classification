@@ -3,7 +3,7 @@
 
 A basic supervised machine learning project that classifies Iris flowers using the **K-Nearest Neighbors (KNN)** algorithm.
 
-**Built as Project 2 of my Artificial Intelligence Internship at DecodeLabs.**
+
 
 ##  Objective
 
@@ -129,4 +129,4 @@ python iris_classifier.py
 **Rehab Tariq**
 Computer Science Student
 
-Built as part of my Artificial Intelligence Internship at DecodeLabs.
+*Built as part of my Artificial Intelligence Internship at DecodeLabs.*
