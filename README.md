@@ -1,5 +1,5 @@
 
-# AI Iris Classification 🌸
+# AI Iris Classification 
 
 A basic supervised machine learning project that classifies Iris flowers using the **K-Nearest Neighbors (KNN)** algorithm.
 
