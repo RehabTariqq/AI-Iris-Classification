@@ -129,8 +129,4 @@ python iris_classifier.py
 **Rehab Tariq**
 Computer Science Student
 
-*Built as part of my Artificial Intelligence Internship at DecodeLabs.*
-=======
-# AI-Iris-Classification
-Iris flower classification using K-Nearest Neighbors and scikit-learn.
->>>>>>> 5fd8284e5972923222f627c216e009a19db4a6dc
+Built as part of my Artificial Intelligence Internship at DecodeLabs.
