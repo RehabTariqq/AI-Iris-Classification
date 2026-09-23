@@ -1,3 +1,4 @@
+
 # AI Iris Classification 🌸
 
 A basic supervised machine learning project that classifies Iris flowers using the **K-Nearest Neighbors (KNN)** algorithm.
@@ -129,3 +130,7 @@ python iris_classifier.py
 Computer Science Student
 
 *Built as part of my Artificial Intelligence Internship at DecodeLabs.*
+=======
+# AI-Iris-Classification
+Iris flower classification using K-Nearest Neighbors and scikit-learn.
+>>>>>>> 5fd8284e5972923222f627c216e009a19db4a6dc
